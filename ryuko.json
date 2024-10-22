@@ -1,0 +1,22 @@
+{
+    "author": "Dipto",
+    "developermode": true,
+    "language": "en",
+    "notification": true,
+    "approval": true,
+    "premium": false,
+    "BOTNAME": "𝓜𝓮𝓽𝓪-𝐱",
+    "PREFIX": ".",
+    "ADMINNAME": "亗ㅤʀᴀʜᴀᴛㅤ亗",
+    "OPERATOR": [
+        "100016974121564"
+    ],
+    "ADMINBOT": [
+        "61551403616265",
+        "100016974121564"
+    ],
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "note": "make sure that the bot name you entered is all lowercase",
+    "adminOnly": false
+}
